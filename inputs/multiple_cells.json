@@ -1,0 +1,6 @@
+{
+  maxStartingBunnies: 5000,
+  maxStartingWolves: 50,
+  numCellsWide: 4,
+  numCellsHigh: 4
+}

@@ -1,0 +1,4 @@
+{
+  maxStartingBunnies: 5000,
+  maxStartingWolves: 50
+}
